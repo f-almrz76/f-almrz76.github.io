@@ -12,7 +12,7 @@ In addition, the simulator can receive different policy functions from the input
 The simulation community can also be changed according to your needs.
 
 
-Check out the usage(./usage.rst) section for further information, including how to :ref:`install <installation>` the project.
+Check out the [usage](https://pages.github.com/) section for further information, including how to :ref:`install <installation>` the project.
 
 
 
